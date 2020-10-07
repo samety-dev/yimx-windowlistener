@@ -1,3 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 *.yimx linguist-language=Yimx
+* linguist-vendored
+*.yimx linguist-vendored=false
